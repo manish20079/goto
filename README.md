@@ -1,4 +1,7 @@
 # gotLost
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 A lost or found website for college.
 <div align="center">
 
@@ -93,3 +96,23 @@ git push -u origin <your_branch_name>
 *13.* Click on `Create Pull Request`.
 
 *14.* Hurray ❗ You have created a PR to the gotLost 💥 . Sit back patiently and relax till then the project maintainers will review your PR. Please understand, there will be some time taken to review a PR and can vary from a few hours to a few days too so be Patient and keep contributing.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://drugi8.netlify.app/"><img src="https://avatars.githubusercontent.com/u/67632571?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Manish Gupta</b></sub></a><br /><a href="#design-Manishgupta200" title="Design">🎨</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

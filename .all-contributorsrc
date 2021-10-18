@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Manishgupta200",
+      "name": "Manish Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67632571?v=4",
+      "profile": "https://drugi8.netlify.app/",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "goto",
+  "projectOwner": "manish20079",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
